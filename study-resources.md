@@ -9,3 +9,6 @@
   - [Google Calender](https://calendar.google.com/calendar/u/0/r)
 
 ## Class Schedule
+|Syntx|Description|Example   |Rendered|
+|.....|...........|..........|........|
+|`*`  |Italic     |`*Italic*`|*Italic*|
