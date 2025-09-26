@@ -8,9 +8,4 @@
   - [Visual Studio Code](https://code.visualstudio.com/)
   - [Google Calender](https://calendar.google.com/calendar/u/0/r)
 
-## Class Schedule
-|Syntax|Description|Example   |Rendered|
-|------|-----------|----------|--------|
-|`*`   |Italic     |`*Italic*`|*Italic*|
-
 
